@@ -62,5 +62,21 @@
     ],
     "affirmation": "",
     "verse": ""
+  },
+    "recommended_reading": {
+    "id": "recommended_reading",
+    "title": "Recommended Reading",
+    "titleStyle": "bold-italic",
+    "body": [
+      "Following are some books which have been a real blessing to us.",
+      "“The Awakening Heart”\nby Betty J. Eadie",
+      "“The Ripple Effect”\nby Betty J. Eadie",
+      "“The Soul’s Remembrance”\nby Roy Mills",
+      "“Dying to be Me”\nby Anita Moorjani",
+      "“Humility”\nby Andrew Murray",
+      "“Absolute Surrender”\nby Andrew Murray",
+      "“No Greater Love”\nby Mother Teresa",
+      "“Do Something Beautiful for God”\nby Mother Teresa"
+    ]
   }
 }
